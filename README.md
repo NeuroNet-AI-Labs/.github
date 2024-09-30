@@ -33,7 +33,7 @@ Our team consists of experienced AI researchers, data scientists, and software e
 
 We welcome collaboration and inquiries from the AI community and beyond. Feel free to reach out to us through the following channels:
 
-- **Email**: openverseai@gmail.com
+- **Email**: victorlebedev30@gmail.com
 
 Thank you for visiting NeuroNet AI Labs. Stay tuned for more updates and exciting developments!
 
